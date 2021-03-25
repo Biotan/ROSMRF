@@ -9,4 +9,4 @@ Software: Pytorch 1.3.0, CUDA-10.0, python 3.5+  For more packages information, 
 ## DataSet
 
 ## result
-![the result of the cityscape val dataset can be seen as follow](https://github.com/JingangTan/S2-DAN/blob/master/pictures/result.jpg)
+![the result of the S3DIS can be seen as follow](https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/S3DIS.png)
