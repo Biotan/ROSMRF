@@ -36,9 +36,9 @@ python unet_val.py
 python unet_vis.py
 ```
 ## Pipeline
-<img src="https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/reconstruct.png" width="800" /><br/>
+<img src="https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/reconstruct.png" width="600" /><br/>
 ## Joint 2D-3D framework
-<img src="https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/framework.png" width="800" /><br/>
+<img src="https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/framework.png" width="600" /><br/>
 ## Result
-<img src="https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/S3DIS.png" width="1000" /><br/>
+<img src="https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/S3DIS.png" width="800" /><br/>
 
