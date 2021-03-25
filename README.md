@@ -36,7 +36,7 @@ python unet_val.py
 python unet_vis.py
 ```
 ## Pipeline
-![the pipeline of ROSMRF can be seen as follow](https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/reconstruct.png)
+![the pipeline of ROSMRF can be seen as follow](https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/reconstruct.png width="200")
 ## Joint 2D-3D framework
 ![the framework of ROSMRF can be seen as follow](https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/framework.png)
 ## Result
