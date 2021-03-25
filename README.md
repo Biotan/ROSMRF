@@ -39,6 +39,9 @@ python unet_vis.py
 <img src="https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/reconstruct.png" width="600" /><br/>
 ## Joint 2D-3D framework
 <img src="https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/framework.png" width="600" /><br/>
-## Result
+## Static Result
 <img src="https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/S3DIS.png" width="800" /><br/>
+## Dynamic Result
+Qualitative results of our RandLA-Net:
 
+| ![2](imgs/S3DIS_area2.gif)   | ![z](imgs/S3DIS_area3.gif) |
