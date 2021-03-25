@@ -42,6 +42,5 @@ python unet_vis.py
 ## Static Result
 <img src="https://github.com/Biotan/ROSMRF/blob/main/S3DIS/Img/S3DIS.png" width="800" /><br/>
 ## Dynamic Result
-Qualitative results of our RandLA-Net:
 
 | ![2](S3DIS/Img/2D.gif)   | ![z](S3DIS/Img/3D.gif) |
