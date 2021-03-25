@@ -44,4 +44,4 @@ python unet_vis.py
 ## Dynamic Result
 Qualitative results of our RandLA-Net:
 
-| ![2](imgs/S3DIS_area2.gif)   | ![z](imgs/S3DIS_area3.gif) |
+| ![2](S3DIS/Img/S3DIS_area2.gif)   | ![z](imgs/S3DIS_area3.gif) |
